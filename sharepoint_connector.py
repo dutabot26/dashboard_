@@ -23,10 +23,10 @@ MESES_12 = {1:"Enero",2:"Febrero",3:"Marzo",4:"Abril",5:"Mayo",6:"Junio",
 
 # Nombres de los archivos locales en la carpeta datos/
 ARCHIVOS_LOCALES = {
-    "facturas": "datos/PROTOTIPO_Homologacion_CRAFT_v6_con_datos.xlsx",
-    "ppto_adm": "datos/4__ADM_PPTO_gastos_año_2026_BR.xlsx",
-    "ppto_gh":  "datos/5__GH_PPTO_gastos_año_2026_BR.xlsx",
-    "ppto_it":  "datos/6__IT_PPTO_gastos_año_2026_BR.xlsx",
+    "facturas": "PROTOTIPO_Homologacion_CRAFT_v6_con_datos.xlsx",
+    "ppto_adm": "4__ADM_PPTO_gastos_año_2026_BR.xlsx",
+    "ppto_gh":  "5__GH_PPTO_gastos_año_2026_BR.xlsx",
+    "ppto_it":  "6__IT_PPTO_gastos_año_2026_BR.xlsx",
 }
 
 # Valores de respaldo si ningún archivo de presupuesto se puede leer
