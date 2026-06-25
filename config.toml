@@ -19,16 +19,16 @@
 [archivos]
 
 # Link del archivo de GASTOS REALES (Cuadro de seguimiento de facturas)
-facturas = "PEGA_AQUI_EL_LINK_DEL_ARCHIVO_CUADRO_SEGUIMIENTO_FACTURAS"
+facturas = "https://craftms-my.sharepoint.com/:x:/g/personal/dutabot_colombia_craftmulti_com/IQBP3ckhr9HtRqfJ6mptI2w5Ad2lQWftOVmkKELSE_N-zt0?e=UiUtjR"
 
 # Link del archivo de PRESUPUESTO ADMINISTRACIÓN
-ppto_adm = "PEGA_AQUI_EL_LINK_DEL_ARCHIVO_4__ADM_PPTO"
+ppto_adm = "https://craftms-my.sharepoint.com/:x:/g/personal/dutabot_colombia_craftmulti_com/IQDiVJ-_Eo83SY4KQLUIWFXkAaExu_yLzwOQOvWHkQrKaOY?e=deV62Y"
 
 # Link del archivo de PRESUPUESTO GESTIÓN HUMANA
-ppto_gh  = "PEGA_AQUI_EL_LINK_DEL_ARCHIVO_5__GH_PPTO"
+ppto_gh  = "https://craftms-my.sharepoint.com/:x:/g/personal/dutabot_colombia_craftmulti_com/IQA6eBjhFnwrR7AFgCbxEfTrAaYojxciP04eTXHo0OkDTag?e=OamKT5"
 
 # Link del archivo de PRESUPUESTO IT
-ppto_it  = "PEGA_AQUI_EL_LINK_DEL_ARCHIVO_6__IT_PPTO"
+ppto_it  = "https://craftms-my.sharepoint.com/:x:/g/personal/dutabot_colombia_craftmulti_com/IQCxuJ7SxoQRSr70oR3rLfCNAZt4Jk_8r2xPveP7sXh1o4w?e=s2rtUo"
 
 
 # ─────────────────────────────────────────────────────────────────
